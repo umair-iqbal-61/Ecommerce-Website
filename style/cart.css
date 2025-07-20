@@ -134,8 +134,8 @@ nav {
 
 /* Hero Section */
 
-.hero-cart {
-    background-image: url(/images/about/banner.png);
+.hero-section {
+    background-image: url(https://umair-iqbal-61.github.io/Ecommerce-Website/images/about/banner.png);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -149,18 +149,6 @@ nav {
 .hero-cart h2,
 .hero-cart p {
     color: #fff;
-}
-
-.hero-cart button {
-    background-image: url("/images/button.png");
-    background-color: transparent;
-    color: #088178;
-    border: 0;
-    padding: 14px 80px 14px 65px;
-    background-repeat: no-repeat;
-    cursor: pointer;
-    font-weight: 700;
-    font-size: 15px;
 }
 
 /* Cart */

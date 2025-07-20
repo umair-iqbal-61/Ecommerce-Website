@@ -134,8 +134,8 @@ nav {
 
 /* Hero Section */
 
-.hero-contact {
-    background-image: url(/images/about/banner.png);
+.hero-section {
+    background-image: url(https://umair-iqbal-61.github.io/Ecommerce-Website/images/about/banner.png);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -146,21 +146,9 @@ nav {
     justify-content: center;
 }
 
-.hero-contact h2,
-.hero-contact p {
+.hero-section h2,
+.hero-section p {
     color: #fff;
-}
-
-.hero-contact button {
-    background-image: url("/images/button.png");
-    background-color: transparent;
-    color: #088178;
-    border: 0;
-    padding: 14px 80px 14px 65px;
-    background-repeat: no-repeat;
-    cursor: pointer;
-    font-weight: 700;
-    font-size: 15px;
 }
 
 /* Contact Details */
@@ -283,7 +271,7 @@ nav {
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url(/images/banner/b14.png);
+    background-image: url(https://umair-iqbal-61.github.io/Ecommerce-Website/images/banner/b14.png);
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
