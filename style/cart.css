@@ -146,11 +146,13 @@ nav {
     justify-content: center;
 }
 
-.hero-section h2,
-.hero-section p {
-    color: white;
-}
+ .hero-section h2 {
+     color: #fff;
+ }
 
+.hero-section p {
+    color: #fff;
+ }
 /* Cart */
 
 .cart {
