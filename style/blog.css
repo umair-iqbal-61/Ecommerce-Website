@@ -134,7 +134,7 @@ nav {
 
 /* Home Page */
 
-.hero-section {
+.hero-blog {
     background-image: url(/images/banner/b19.jpg);
     width: 100%;
     height: 40vh;
@@ -146,12 +146,12 @@ nav {
     justify-content: center;
 }
 
-.hero-section h2,
-.hero-section p {
+.hero-blog h2,
+.hero-blog p {
     color: #fff;
 }
 
-.hero-section button {
+.hero-blog button {
     background-image: url("/images/button.png");
     background-color: transparent;
     color: #088178;
