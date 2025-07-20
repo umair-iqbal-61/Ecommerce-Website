@@ -135,7 +135,7 @@ nav {
 /* Hero Section */
 
 .hero-section {
-    background-image: url(https://umair-iqbal-61.github.io/Ecommerce-Website/images/hero4.png);
+    background-image: url(https://umair-iqbal-61.github.io/Ecommerce-Website/images/about/banner.png);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -149,18 +149,6 @@ nav {
 .hero-section h2,
 .hero-section p {
     color: #fff;
-}
-
-.hero-section button {
-    background-image: url(https://umair-iqbal-61.github.io/Ecommerce-Website/images/button.png);
-    background-color: transparent;
-    color: #088178;
-    border: 0;
-    padding: 14px 80px 14px 65px;
-    background-repeat: no-repeat;
-    cursor: pointer;
-    font-weight: 700;
-    font-size: 15px;
 }
 
 /* Contact Details */
